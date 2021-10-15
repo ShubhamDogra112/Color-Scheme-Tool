@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+colorSchemeTool.log
+node_modules
+.git
